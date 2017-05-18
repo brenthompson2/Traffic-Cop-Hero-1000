@@ -14,9 +14,10 @@ This repository holds the working material for Traffic Cop Hero 1000, a 2D Galag
   - A & D = cycle through weapons
   - Space = Uses the weapon
 
-**** Current Status (2:35pm 5/18/17 ****
+**** Current Status (5:02pm 5/18/17) ****
   - Most of the gameplay has been implemented
   - Still Need:
    -  HUD
    -  Menu Screens
    -  Human Sprites
+   -  Sounds
