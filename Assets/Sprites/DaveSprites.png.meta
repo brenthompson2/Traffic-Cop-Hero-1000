@@ -1,0 +1,326 @@
+fileFormatVersion: 2
+guid: 5aa5aff16941d4131a7334c7aa93aa68
+timeCreated: 1495118449
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: DaveWY4
+    21300002: DaveWY1
+    21300004: DaveWY3
+    21300006: DaveY0
+    21300008: DaveS0
+    21300010: DaveWY2
+    21300012: DaveWS1
+    21300014: DaveWS2
+    21300016: DaveWS3
+    21300018: DaveWS4
+    21300020: DaveG0
+    21300022: DaveWG1
+    21300024: DaveWG2
+    21300026: DaveWG3
+    21300028: DaveWG4
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 50
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Tizen
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Samsung TV
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DaveWY3
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 1267
+        width: 120
+        height: 156
+      alignment: 9
+      pivot: {x: 0.34972736, y: 0.6627408}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DaveWY1
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 1271
+        width: 119
+        height: 152
+      alignment: 9
+      pivot: {x: 0.37013912, y: 0.66173595}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DaveWY4
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 1267
+        width: 118
+        height: 156
+      alignment: 9
+      pivot: {x: 0.34746274, y: 0.6559602}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DaveY0
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 1269
+        width: 93
+        height: 151
+      alignment: 9
+      pivot: {x: 0.15736373, y: 0.66964537}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DaveS0
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 1064
+        width: 95
+        height: 151
+      alignment: 9
+      pivot: {x: 0.19164525, y: 0.6494731}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DaveWY2
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 1260
+        width: 121
+        height: 162
+      alignment: 9
+      pivot: {x: 0.37291372, y: 0.67889327}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DaveWS1
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 1066
+        width: 122
+        height: 150
+      alignment: 9
+      pivot: {x: 0.3713494, y: 0.6606901}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DaveWS2
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 1063
+        width: 122
+        height: 151
+      alignment: 9
+      pivot: {x: 0.36675474, y: 0.6559137}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DaveWS3
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 1063
+        width: 122
+        height: 153
+      alignment: 9
+      pivot: {x: 0.35756552, y: 0.661203}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DaveWS4
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 1062
+        width: 122
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DaveG0
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 866
+        width: 95
+        height: 154
+      alignment: 9
+      pivot: {x: 0.18725008, y: 0.6431421}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DaveWG1
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 867
+        width: 122
+        height: 150
+      alignment: 9
+      pivot: {x: 0.37290016, y: 0.67722654}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DaveWG2
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 864
+        width: 123
+        height: 152
+      alignment: 9
+      pivot: {x: 0.3604637, y: 0.6658514}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DaveWG3
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 865
+        width: 124
+        height: 152
+      alignment: 9
+      pivot: {x: 0.34852642, y: 0.6606413}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DaveWG4
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 866
+        width: 123
+        height: 151
+      alignment: 9
+      pivot: {x: 0.36622006, y: 0.6647604}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
